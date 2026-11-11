@@ -4,6 +4,8 @@
 
 > A curated list of resources for traveling in Peru, covering official tourism portals, rail networks, Andean trekking routes, Amazon reserves, and cultural heritage guides.
 
+Peru is a diverse South American destination encompassing arid coastal deserts, towering Andean peaks, ancient Incan archaeological citadels, and Amazonian rainforest basins. This list is intended for cultural travelers, high-altitude trekkers, archaeological explorers, and biodiversity researchers.
+
 ## Contents
 
 - [Official & Planning](#official--planning)
