@@ -10,6 +10,8 @@
 
 Peru is a diverse South American destination encompassing arid coastal deserts, towering Andean peaks, ancient Incan archaeological citadels, and Amazonian rainforest basins. This list is intended for cultural travelers, high-altitude trekkers, archaeological explorers, and biodiversity researchers.
 
+_Support ongoing maintenance and curation via [GitHub Sponsors](https://github.com/sponsors/brandonhimpfen)._
+
 ## Contents
 
 - [Official & Planning](#official--planning)
@@ -117,7 +119,9 @@ Practical advice on altitude sickness (soroche) prevention, emergency contacts, 
   
 ## Contribute
 
-Contributions are welcome!
+Contributions are welcome. Please ensure your submission fully follows the requirements outlined in [`CONTRIBUTING.md`](CONTRIBUTING.md), including formatting, scope alignment, and category placement.
+
+Pull requests that do not adhere to the contribution guidelines may be closed.
 
 ## License
 
